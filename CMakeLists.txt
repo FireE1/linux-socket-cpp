@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.12)
 
-project(Infotecs_test)
+project(Socket_linux)
 set(CMAKE_CXX_STANDART 17)
 
 find_package(Threads REQUIRED)
